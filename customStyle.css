@@ -1,0 +1,15 @@
+.error{
+    font-size: 14px;
+    color: red;
+}
+header{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid black;
+}
+
+#employeeTbl tr{
+    cursor: pointer;
+}
